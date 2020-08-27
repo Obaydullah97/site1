@@ -1,0 +1,160 @@
+body{padding:0 0;
+     margin:0 0;}
+	 
+table{width:100%;
+      height:100%;
+	  padding:0 0;
+	  background:white;}
+	  
+	  
+	  table{border-collapse:collapse;margin:0px;padding:0px;}
+      table{border:none;}
+	  
+	 
+	  
+	  .header{
+		  width:100%;
+		  height:80px;
+		  background:red;
+		  
+		  }
+		  
+		  
+	  .logo{
+		  width:15%;
+		  background:red;		  
+	  }
+	  
+	  .text{
+		  width:72%;
+		  background: ;
+          align:center;		  
+	  }	  
+	  
+	  .time{
+		  width:15%;
+		  background:;	
+          align:center;			  
+	  }	 
+	  
+	  	  .menubar{
+		  width:100%;	 
+	     height:50px;
+		 color:black;
+		 font-size:25px;
+		 background:#00e600;
+		 text-align:center;
+		 
+		 
+		 }
+	  
+
+
+	  
+	  .home a{
+		  text-decoration:none;
+		  display:block;font-weight:bold;
+		  padding:0;
+		  }
+	  
+	  	  .home a:hover{ background:yellow;color:blue;transition:500ms ease;padding:.0px; }
+		  
+		  
+		  
+		  .p1{width:100%;
+		      height: ;
+		  }
+		 
+		  .slider{
+			  width:50%;
+			  height:300px;
+			  
+		  }
+		  
+		  
+		input{height:40;}
+		  
+		  
+		  .search{width:50%;
+		          height:40px;
+				  background:blue;
+				  
+				  
+		  }
+		  
+		 input{height:40;width:45%;}
+		  
+		.site{width:50%;
+		     background:red;
+		  }
+		  
+		  
+		  .website{ width:16%;
+		          height:30px;
+				  text-align:center;
+				  font-size:18px;
+				  
+				  
+		  }
+		  
+		 .website a{
+		  text-decoration:none;
+		  color:white;
+		  display:block;font-weight:bold;
+		  font-size:20;
+		  padding:0;
+		  margin:0;
+		  }
+	  
+	  	  .website a:hover{ background:yellow;color:blue;transition:500ms ease;padding:0px; }
+		  
+		  
+		  	
+
+
+
+       .p2{width:100%;}
+
+        .iframe1{
+                width:40%;
+				height:auto;
+				position:relative;
+		}	
+
+       iframe{
+
+             }
+
+
+        .topic{
+                width:20%;
+				height:auto;
+				
+		}	
+
+        .iframe2{
+                width:40%;
+				height:auto;
+		}	
+
+
+        .bani{
+                width:100%;
+				height:auto;
+		}	
+		
+  .dropdown{
+			  
+		   }
+		  
+  .dropdown ul{
+			  
+		    }
+		  
+  .dropdown ul li{
+	  
+           }
+		  
+  .dropdownul li a{
+			  
+		  }
